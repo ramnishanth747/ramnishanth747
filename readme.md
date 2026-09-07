@@ -24,7 +24,7 @@
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│                         NISANTH.OS                            │
+│                         NISANTH.OS                           │
 │                                                              │
 │                    INITIALIZING...                           │
 │                                                              │
@@ -53,23 +53,6 @@
 
 </div>
 
-## `00 / NAVIGATION`
-
-<details open>
-<summary><b>Open the system map</b></summary>
-
-| Module | Purpose |
-|:---|:---|
-| [`01 / About`](#-01--about) | The person behind the projects |
-| [`02 / Stack`](#-02--stack) | Tools and technologies I am exploring |
-| [`03 / Journey`](#-03--journey) | Where the learning path has taken me |
-| [`04 / Projects`](#-04--projects) | Selected work and project direction |
-| [`05 / AI Lab`](#-05--ai-lab) | How I use AI while building |
-| [`06 / Currently Building`](#-06--currently-building) | Current snapshots, not skill ratings |
-| [`07 / Beyond Code`](#-07--beyond-code) | Interests outside programming |
-| [`08 / Roadmap`](#-08--roadmap) | What comes next |
-
-</details>
 
 ## `01 / ABOUT`
 
